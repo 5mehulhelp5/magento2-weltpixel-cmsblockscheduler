@@ -3,7 +3,7 @@
 ### Installation
 
 Dependencies:
- - magento2-weltpixel-backend (see https://github.com/Weltpixel/magento2-weltpixel-backend)
+- magento2-weltpixel-backend (see https://github.com/Weltpixel/magento2-weltpixel-backend)
 
 With composer:
 
@@ -11,7 +11,7 @@ With composer:
 $ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
-$ composer config repositories.magento2-weltpixel-cms-block-scheduler git https://github.com/Weltpixel/magento2-weltpixel-cms-block-scheduler
+$ composer config repositories.weltpiel-magento2-weltpixel-cms-block-scheduler git https://github.com/Weltpixel/magento2-weltpixel-cms-block-scheduler.git
 $ composer require weltpixel/magento2-weltpixel-cmsblockscheduler:dev-master
 ```
 
